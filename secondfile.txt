@@ -1,5 +1,8 @@
 
 This is the second file
 
+This is new information
+
+
 end of file
 
